@@ -1,0 +1,7 @@
+fund,ann_return,ann_volatility,sharpe,max_drawdown
+combined_min_var,0.0544,0.1278,0.4259,-0.1498
+combined_max_sr,0.2518,0.2448,1.0285,-0.2417
+equity_min_var,0.0531,0.1275,0.4162,-0.1481
+equity_max_sr,0.1008,0.1813,0.556,-0.2393
+crypto_min_var,0.2781,0.6345,0.4383,-0.7594
+crypto_max_sr,-0.1607,0.8133,-0.1976,-0.8755

@@ -1,0 +1,5 @@
+fund,type,ann_return,ann_volatility,sharpe,max_drawdown
+equity_min_var,base,0.0531,0.1275,0.4162,-0.1481
+equity_min_var,augmented,0.0509,0.1277,0.3987,-0.1497
+equity_max_sr,base,0.1008,0.1813,0.556,-0.2393
+equity_max_sr,augmented,0.0975,0.182,0.5357,-0.2435
