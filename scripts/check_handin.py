@@ -9,7 +9,7 @@ import re
 import sys
 import pathlib
 
-ROOT = pathlib.Path("/Users/encountered/Documents/GitHub/fins-agent/fins2026/z5532444_projectB").resolve().parent.parent
+ROOT = pathlib.Path(__file__).resolve().parent.parent
 oks, problems, warns = [], [], []
 
 
